@@ -1,16 +1,3 @@
-// import "./App.css";
-// import Form from "./Components/Form.js";
-
-// function App() {
-//   return (
-//     <div className="App">
-//       <form />
-//     </div>
-//   );
-// }
-
-// export default App;
-
 import React from "react";
 import "./App.css";
 import Form from "./Components/Form.js";
